@@ -5,7 +5,7 @@ VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransformTester", "TransformTester\TransformTester.csproj", "{76CF0CB1-9FDB-44C0-9A68-EA6F1FF1251B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Transform3DBestFitConsole", "Transform3DBestFit\Transform3DBestFit\Transform3DBestFitConsole.csproj", "{52C724BE-7420-4C0A-98BD-4F046CA09A73}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Transform3DBestFit", "Transform3DBestFit\Transform3DBestFit\Transform3DBestFit.csproj", "{52C724BE-7420-4C0A-98BD-4F046CA09A73}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

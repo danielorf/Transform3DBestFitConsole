@@ -54,9 +54,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Transform3DBestFit\Transform3DBestFit\Transform3DBestFitConsole.csproj">
+    <ProjectReference Include="..\Transform3DBestFit\Transform3DBestFit\Transform3DBestFit.csproj">
       <Project>{52c724be-7420-4c0a-98bd-4f046ca09a73}</Project>
-      <Name>Transform3DBestFitConsole</Name>
+      <Name>Transform3DBestFit</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
